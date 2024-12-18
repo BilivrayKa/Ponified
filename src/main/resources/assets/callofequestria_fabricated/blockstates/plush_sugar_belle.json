@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "callofequestria_fabricated:block/plush_sugar_belle",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "callofequestria_fabricated:block/plush_sugar_belle"
+    },
+    "facing=south": {
+      "model": "callofequestria_fabricated:block/plush_sugar_belle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "callofequestria_fabricated:block/plush_sugar_belle",
+      "y": 270
+    }
+  }
+}

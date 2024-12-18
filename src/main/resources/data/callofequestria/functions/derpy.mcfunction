@@ -1,1 +1,0 @@
-give @s callofequestria:plush_derpy 1

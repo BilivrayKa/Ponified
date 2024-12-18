@@ -1,1 +1,0 @@
-give @s callofequestria:plush_granny_smith 1

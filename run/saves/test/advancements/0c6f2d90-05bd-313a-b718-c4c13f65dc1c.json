@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-25 19:50:04 +0300"
+    },
+    "done": true
+  },
+  "callofequestria_fabricated:limestone_pie": {
+    "criteria": {
+      "requirement": "2024-12-25 19:50:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-25 19:50:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-25 19:50:34 +0300"
+    },
+    "done": true
+  },
+  "callofequestria_fabricated:root": {
+    "criteria": {
+      "requirement": "2024-12-25 19:50:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-25 19:50:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-25 19:50:06 +0300"
+    },
+    "done": false
+  },
+  "callofequestria_fabricated:minuette": {
+    "criteria": {
+      "requirement": "2024-12-25 19:50:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-25 19:50:04 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

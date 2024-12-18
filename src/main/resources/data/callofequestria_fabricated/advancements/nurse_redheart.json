@@ -1,0 +1,44 @@
+{
+  "parent": "callofequestria_fabricated:root",
+  "display": {
+    "icon": {
+      "item": "callofequestria_fabricated:plush_nurse_redheart"
+    },
+    "title": {
+      "translate": "achievement.nurse_redheart.title",
+      "color": "white"
+    },
+    "description": {
+      "translate": "achievement.nurse_redheart.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "healing_potion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "potion": "minecraft:healing"
+          }
+        ]
+      }
+    },
+    "regeneration_potion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "potion": "minecraft:regeneration"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "callofequestria_fabricated:nurse_redheart"
+  }
+}

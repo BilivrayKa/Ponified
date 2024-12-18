@@ -1,0 +1,31 @@
+{
+  "parent": "callofequestria_fabricated:root",
+  "display": {
+    "icon": {
+      "item": "callofequestria_fabricated:plush_octavia_melody"
+    },
+    "title": {
+      "translate": "achievement.octavia_melody.title",
+      "color": "gray"
+    },
+    "description": {
+      "translate": "achievement.octavia_melody.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:note_block",
+        "ingredients": []
+      }
+    }
+  },
+  "rewards": {
+    "function": "callofequestria_fabricated:octavia_melody"
+  }
+}

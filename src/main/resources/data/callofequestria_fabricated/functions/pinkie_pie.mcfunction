@@ -1,0 +1,1 @@
+give @s callofequestria_fabricated:plush_pinkie_pie 1

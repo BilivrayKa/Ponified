@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "callofequestria_fabricated:block/plush_twilight_velvet",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "callofequestria_fabricated:block/plush_twilight_velvet"
+    },
+    "facing=south": {
+      "model": "callofequestria_fabricated:block/plush_twilight_velvet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "callofequestria_fabricated:block/plush_twilight_velvet",
+      "y": 270
+    }
+  }
+}

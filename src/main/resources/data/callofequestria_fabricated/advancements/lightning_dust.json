@@ -1,0 +1,39 @@
+{
+  "parent": "callofequestria_fabricated:root",
+  "display": {
+    "icon": {
+      "item": "callofequestria_fabricated:plush_lightning_dust"
+    },
+    "title": {
+      "translate": "achievement.lightning_dust.title",
+      "color": "white"
+    },
+    "description": {
+      "translate": "achievement.lightning_dust.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:elytra"
+            ],
+            "durability": 1,
+            "enchantments": [],
+            "stored_enchantments": []
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "callofequestria_fabricated:lightning_dust"
+  }
+}

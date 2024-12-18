@@ -1,0 +1,1 @@
+give @s callofequestria_fabricated:plush_daring_do 1

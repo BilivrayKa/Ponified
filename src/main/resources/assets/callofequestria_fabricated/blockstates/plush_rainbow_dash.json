@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "callofequestria_fabricated:block/plush_rainbow_dash",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "callofequestria_fabricated:block/plush_rainbow_dash"
+    },
+    "facing=south": {
+      "model": "callofequestria_fabricated:block/plush_rainbow_dash",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "callofequestria_fabricated:block/plush_rainbow_dash",
+      "y": 270
+    }
+  }
+}

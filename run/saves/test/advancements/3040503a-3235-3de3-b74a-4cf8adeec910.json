@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-20 08:03:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-20 08:04:00 +0300"
+    },
+    "done": false
+  },
+  "callofequestria_fabricated:limestone_pie": {
+    "criteria": {
+      "requirement": "2024-12-24 04:48:23 +0300"
+    },
+    "done": true
+  },
+  "callofequestria_fabricated:root": {
+    "criteria": {
+      "requirement": "2024-12-24 04:48:16 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "callofequestria_fabricated:root",
+  "display": {
+    "icon": {
+      "item": "callofequestria_fabricated:plush_dj_pon3"
+    },
+    "title": {
+      "translate": "achievement.dj_pon3.title",
+      "color": "white"
+    },
+    "description": {
+      "translate": "achievement.dj_pon3.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:music_discs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "callofequestria_fabricated:dj_pon3"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "cross": "callofequestria:block/zinnia_bush_flower_stage1"
-  }
-}

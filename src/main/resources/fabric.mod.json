@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "callofequestria_fabricated",
+  "version": "${version}",
+  "name": "CallOfEquestria Fabricated",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/callofequestria_fabricated/pack.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.callofequestria_fabricated.client.Callofequestria_fabricatedClient"
+    ],
+    "main": [
+      "org.callofequestria_fabricated.Callofequestria_fabricated"
+    ]
+  },
+  "mixins": [
+    "callofequestria_fabricated.mixins.json",
+    {
+      "config": "callofequestria_fabricated.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "fabric-networking-api-v1": "*"
+  },
+  "resources": {
+    "assets": [
+      "<callofequestria_fabricated>"
+    ]
+  }
+}

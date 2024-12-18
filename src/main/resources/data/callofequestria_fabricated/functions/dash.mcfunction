@@ -1,0 +1,1 @@
+give @s callofequestria_fabricated:plush_rainbow_dash 1

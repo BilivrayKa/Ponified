@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.callofequestria_fabricated.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "LivingEntityMixin",
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

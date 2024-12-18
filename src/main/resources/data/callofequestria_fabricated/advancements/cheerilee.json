@@ -1,0 +1,33 @@
+{
+  "parent": "callofequestria_fabricated:root",
+  "display": {
+    "icon": {
+      "item": "callofequestria_fabricated:plush_cheerilee"
+    },
+    "title": {
+      "translate": "achievement.cheerilee.title",
+      "color": "gray"
+    },
+    "description": {
+      "translate": "achievement.cheerilee.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:cured_zombie_villager",
+      "conditions": {
+        "zombie": {
+          "type": "minecraft:zombie_villager",
+          "nbt": "{IsBaby:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "callofequestria_fabricated:cheerilee"
+  }
+}

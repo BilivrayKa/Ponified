@@ -1,0 +1,760 @@
+{
+  "yay": {
+    "subtitles": "sounds.callofequestria_fabricated.yay",
+    "sounds": [
+      "callofequestria_fabricated:yay"
+    ]
+  },
+  "yay2": {
+    "subtitles": "sounds.callofequestria_fabricated.yay2",
+    "sounds": [
+      "callofequestria_fabricated:yay2"
+    ]
+  },
+  "pinkie1": {
+    "subtitles": "sounds.callofequestria_fabricated.pinkie1",
+    "sounds": [
+      "callofequestria_fabricated:pinkie1"
+    ]
+  },
+  "pinkie2": {
+    "subtitles": "sounds.callofequestria_fabricated.pinkie2",
+    "sounds": [
+      "callofequestria_fabricated:pinkie2"
+    ]
+  },
+  "squee1": {
+    "subtitles": "sounds.callofequestria_fabricated.squee1",
+    "sounds": [
+      "callofequestria_fabricated:squee1"
+    ]
+  },
+  "squee2": {
+    "subtitles": "sounds.callofequestria_fabricated.squee2",
+    "sounds": [
+      "callofequestria_fabricated:squee2"
+    ]
+  },
+  "squee3": {
+    "subtitles": "sounds.callofequestria_fabricated.squee3",
+    "sounds": [
+      "callofequestria_fabricated:squee3"
+    ]
+  },
+  "rose1": {
+    "subtitles": "sounds.callofequestria_fabricated.rose1",
+    "sounds": [
+      "callofequestria_fabricated:rose1"
+    ]
+  },
+  "rose2": {
+    "subtitles": "sounds.callofequestria_fabricated.rose2",
+    "sounds": [
+      "callofequestria_fabricated:rose2"
+    ]
+  },
+  "applejack1": {
+    "subtitles": "sounds.callofequestria_fabricated.applejack1",
+    "sounds": [
+      "callofequestria_fabricated:applejack1"
+    ]
+  },
+  "applejack2": {
+    "subtitles": "sounds.callofequestria_fabricated.applejack2",
+    "sounds": [
+      "callofequestria_fabricated:applejack2"
+    ]
+  },
+  "rainbow_dash1": {
+    "subtitles": "sounds.callofequestria_fabricated.rainbow_dash1",
+    "sounds": [
+      "callofequestria_fabricated:rainbow_dash1"
+    ]
+  },
+  "rainbow_dash2": {
+    "subtitles": "sounds.callofequestria_fabricated.rainbow_dash2",
+    "sounds": [
+      "callofequestria_fabricated:rainbow_dash2"
+    ]
+  },
+  "rarity1": {
+    "subtitles": "sounds.callofequestria_fabricated.rarity1",
+    "sounds": [
+      "callofequestria_fabricated:rarity1"
+    ]
+  },
+  "rarity2": {
+    "subtitles": "sounds.callofequestria_fabricated.rarity2",
+    "sounds": [
+      "callofequestria_fabricated:rarity2"
+    ]
+  },
+  "sparkle1": {
+    "subtitles": "sounds.callofequestria_fabricated.sparkle1",
+    "sounds": [
+      "callofequestria_fabricated:sparkle1"
+    ]
+  },
+  "sparkle2": {
+    "subtitles": "sounds.callofequestria_fabricated.sparkle2",
+    "sounds": [
+      "callofequestria_fabricated:sparkle2"
+    ]
+  },
+  "derpy1": {
+    "subtitles": "sounds.callofequestria_fabricated.derpy1",
+    "sounds": [
+      "callofequestria_fabricated:derpy1"
+    ]
+  },
+  "derpy2": {
+    "subtitles": "sounds.callofequestria_fabricated.derpy2",
+    "sounds": [
+      "callofequestria_fabricated:derpy2"
+    ]
+  },
+  "starlight1": {
+    "subtitles": "sounds.callofequestria_fabricated.starlight1",
+    "sounds": [
+      "callofequestria_fabricated:starlight1"
+    ]
+  },
+  "starlight2": {
+    "subtitles": "sounds.callofequestria_fabricated.starlight2",
+    "sounds": [
+      "callofequestria_fabricated:starlight2"
+    ]
+  },
+  "trixie1": {
+    "subtitles": "sounds.callofequestria_fabricated.trixie1",
+    "sounds": [
+      "callofequestria_fabricated:trixie1"
+    ]
+  },
+  "trixie2": {
+    "subtitles": "sounds.callofequestria_fabricated.trixie2",
+    "sounds": [
+      "callofequestria_fabricated:trixie2"
+    ]
+  },
+  "swirl1": {
+    "subtitles": "sounds.callofequestria_fabricated.swirl1",
+    "sounds": [
+      "callofequestria_fabricated:swirl1"
+    ]
+  },
+  "swirl2": {
+    "subtitles": "sounds.callofequestria_fabricated.swirl2",
+    "sounds": [
+      "callofequestria_fabricated:swirl2"
+    ]
+  },
+  "minuette1": {
+    "subtitles": "sounds.callofequestria_fabricated.minuette1",
+    "sounds": [
+      "callofequestria_fabricated:minuette1"
+    ]
+  },
+  "minuette2": {
+    "subtitles": "sounds.callofequestria_fabricated.minuette2",
+    "sounds": [
+      "callofequestria_fabricated:minuette2"
+    ]
+  },
+  "maud_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.maud_pie1",
+    "sounds": [
+      "callofequestria_fabricated:maud_pie1"
+    ]
+  },
+  "maud_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.maud_pie2",
+    "sounds": [
+      "callofequestria_fabricated:maud_pie2"
+    ]
+  },
+  "marble_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.marble_pie1",
+    "sounds": [
+      "callofequestria_fabricated:marble_pie1",
+      "callofequestria_fabricated:stereo_marble_pie1"
+    ]
+  },
+  "marble_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.marble_pie2",
+    "sounds": [
+      "callofequestria_fabricated:marble_pie2"
+    ]
+  },
+  "daring_do1": {
+    "subtitles": "sounds.callofequestria_fabricated.daring_do1",
+    "sounds": [
+      "callofequestria_fabricated:daring_do1"
+    ]
+  },
+  "daring_do2": {
+    "subtitles": "sounds.callofequestria_fabricated.daring_do2",
+    "sounds": [
+      "callofequestria_fabricated:daring_do2"
+    ]
+  },
+  "granny_smith1": {
+    "subtitles": "sounds.callofequestria_fabricated.granny_smith1",
+    "sounds": [
+      "callofequestria_fabricated:granny_smith1"
+    ]
+  },
+  "granny_smith2": {
+    "subtitles": "sounds.callofequestria_fabricated.granny_smith2",
+    "sounds": [
+      "callofequestria_fabricated:granny_smith2"
+    ]
+  },
+  "limestone_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.limestone_pie1",
+    "sounds": [
+      "callofequestria_fabricated:limestone_pie1"
+    ]
+  },
+  "limestone_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.limestone_pie2",
+    "sounds": [
+      "callofequestria_fabricated:limestone_pie2"
+    ]
+  },
+  "nurse_redheart1": {
+    "subtitles": "sounds.callofequestria_fabricated.nurse_redheart1",
+    "sounds": [
+      "callofequestria_fabricated:nurse_redheart1"
+    ]
+  },
+  "nurse_redheart2": {
+    "subtitles": "sounds.callofequestria_fabricated.nurse_redheart2",
+    "sounds": [
+      "callofequestria_fabricated:nurse_redheart2"
+    ]
+  },
+  "lily_valley1": {
+    "subtitles": "sounds.callofequestria_fabricated.lily_valley1",
+    "sounds": [
+      "callofequestria_fabricated:lily_valley1"
+    ]
+  },
+  "lily_valley2": {
+    "subtitles": "sounds.callofequestria_fabricated.lily_valley2",
+    "sounds": [
+      "callofequestria_fabricated:lily_valley2"
+    ]
+  },
+  "daisy1": {
+    "subtitles": "sounds.callofequestria_fabricated.daisy1",
+    "sounds": [
+      "callofequestria_fabricated:daisy1"
+    ]
+  },
+  "daisy2": {
+    "subtitles": "sounds.callofequestria_fabricated.daisy2",
+    "sounds": [
+      "callofequestria_fabricated:daisy2"
+    ]
+  },
+  "lotus_blossom1": {
+    "subtitles": "sounds.callofequestria_fabricated.lotus_blossom1",
+    "sounds": [
+      "callofequestria_fabricated:lotus_blossom1"
+    ]
+  },
+  "lotus_blossom2": {
+    "subtitles": "sounds.callofequestria_fabricated.lotus_blossom2",
+    "sounds": [
+      "callofequestria_fabricated:lotus_blossom2"
+    ]
+  },
+  "aloe_vera1": {
+    "subtitles": "sounds.callofequestria_fabricated.aloe_vera1",
+    "sounds": [
+      "callofequestria_fabricated:aloe_vera1"
+    ]
+  },
+  "aloe_vera2": {
+    "subtitles": "sounds.callofequestria_fabricated.aloe_vera2",
+    "sounds": [
+      "callofequestria_fabricated:aloe_vera2"
+    ]
+  },
+  "octavia_melody1": {
+    "subtitles": "sounds.callofequestria_fabricated.octavia_melody1",
+    "sounds": [
+      "callofequestria_fabricated:octavia_melody1"
+    ]
+  },
+  "octavia_melody2": {
+    "subtitles": "sounds.callofequestria_fabricated.octavia_melody2",
+    "sounds": [
+      "callofequestria_fabricated:octavia_melody2"
+    ]
+  },
+  "dj_pon31": {
+    "subtitles": "sounds.callofequestria_fabricated.dj_pon31",
+    "sounds": [
+      "callofequestria_fabricated:dj_pon31"
+    ]
+  },
+  "dj_pon32": {
+    "subtitles": "sounds.callofequestria_fabricated.dj_pon32",
+    "sounds": [
+      "callofequestria_fabricated:dj_pon32"
+    ]
+  },
+  "cheerilee1": {
+    "subtitles": "sounds.callofequestria_fabricated.cheerilee1",
+    "sounds": [
+      "callofequestria_fabricated:cheerilee1"
+    ]
+  },
+  "cheerilee2": {
+    "subtitles": "sounds.callofequestria_fabricated.cheerilee2",
+    "sounds": [
+      "callofequestria_fabricated:cheerilee2"
+    ]
+  },
+  "spitfire1": {
+    "subtitles": "sounds.callofequestria_fabricated.spitfire1",
+    "sounds": [
+      "callofequestria_fabricated:spitfire1"
+    ]
+  },
+  "spitfire2": {
+    "subtitles": "sounds.callofequestria_fabricated.spitfire2",
+    "sounds": [
+      "callofequestria_fabricated:spitfire2"
+    ]
+  },
+  "cherry_berry1": {
+    "subtitles": "sounds.callofequestria_fabricated.cherry_berry1",
+    "sounds": [
+      "callofequestria_fabricated:cherry_berry1"
+    ]
+  },
+  "cherry_berry2": {
+    "subtitles": "sounds.callofequestria_fabricated.cherry_berry2",
+    "sounds": [
+      "callofequestria_fabricated:cherry_berry2"
+    ]
+  },
+  "sugar_belle1": {
+    "subtitles": "sounds.callofequestria_fabricated.sugar_belle1",
+    "sounds": [
+      "callofequestria_fabricated:sugar_belle1"
+    ]
+  },
+  "sugar_belle2": {
+    "subtitles": "sounds.callofequestria_fabricated.sugar_belle2",
+    "sounds": [
+      "callofequestria_fabricated:sugar_belle2"
+    ]
+  },
+  "twilight_velvet1": {
+    "subtitles": "sounds.callofequestria_fabricated.twilight_velvet1",
+    "sounds": [
+      "callofequestria_fabricated:twilight_velvet1"
+    ]
+  },
+  "twilight_velvet2": {
+    "subtitles": "sounds.callofequestria_fabricated.twilight_velvet2",
+    "sounds": [
+      "callofequestria_fabricated:twilight_velvet2"
+    ]
+  },
+  "lightning_dust1": {
+    "subtitles": "sounds.callofequestria_fabricated.lightning_dust1",
+    "sounds": [
+      "callofequestria_fabricated:lightning_dust1"
+    ]
+  },
+  "lightning_dust2": {
+    "subtitles": "sounds.callofequestria_fabricated.lightning_dust2",
+    "sounds": [
+      "callofequestria_fabricated:lightning_dust2"
+    ]
+  },
+
+  "stereo_yay": {
+    "subtitles": "sounds.callofequestria_fabricated.yay",
+    "sounds": [
+      "callofequestria_fabricated:stereo_yay"
+    ]
+  },
+  "stereo_yay2": {
+    "subtitles": "sounds.callofequestria_fabricated.yay2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_yay2"
+    ]
+  },
+  "stereo_pinkie1": {
+    "subtitles": "sounds.callofequestria_fabricated.pinkie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_pinkie1"
+    ]
+  },
+  "stereo_pinkie2": {
+    "subtitles": "sounds.callofequestria_fabricated.pinkie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_pinkie2"
+    ]
+  },
+  "stereo_squee1": {
+    "subtitles": "sounds.callofequestria_fabricated.squee1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_squee1"
+    ]
+  },
+  "stereo_squee2": {
+    "subtitles": "sounds.callofequestria_fabricated.squee2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_squee2"
+    ]
+  },
+  "stereo_squee3": {
+    "subtitles": "sounds.callofequestria_fabricated.squee3",
+    "sounds": [
+      "callofequestria_fabricated:stereo_squee3"
+    ]
+  },
+  "stereo_rose1": {
+    "subtitles": "sounds.callofequestria_fabricated.rose1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rose1"
+    ]
+  },
+  "stereo_rose2": {
+    "subtitles": "sounds.callofequestria_fabricated.rose2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rose2"
+    ]
+  },
+  "stereo_applejack1": {
+    "subtitles": "sounds.callofequestria_fabricated.applejack1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_applejack1"
+    ]
+  },
+  "stereo_applejack2": {
+    "subtitles": "sounds.callofequestria_fabricated.applejack2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_applejack2"
+    ]
+  },
+  "stereo_rainbow_dash1": {
+    "subtitles": "sounds.callofequestria_fabricated.rainbow_dash1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rainbow_dash1"
+    ]
+  },
+  "stereo_rainbow_dash2": {
+    "subtitles": "sounds.callofequestria_fabricated.rainbow_dash2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rainbow_dash2"
+    ]
+  },
+  "stereo_rarity1": {
+    "subtitles": "sounds.callofequestria_fabricated.rarity1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rarity1"
+    ]
+  },
+  "stereo_rarity2": {
+    "subtitles": "sounds.callofequestria_fabricated.rarity2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_rarity2"
+    ]
+  },
+  "stereo_sparkle1": {
+    "subtitles": "sounds.callofequestria_fabricated.sparkle1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_sparkle1"
+    ]
+  },
+  "stereo_sparkle2": {
+    "subtitles": "sounds.callofequestria_fabricated.sparkle2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_sparkle2"
+    ]
+  },
+  "stereo_derpy1": {
+    "subtitles": "sounds.callofequestria_fabricated.derpy1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_derpy1"
+    ]
+  },
+  "stereo_derpy2": {
+    "subtitles": "sounds.callofequestria_fabricated.derpy2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_derpy2"
+    ]
+  },
+  "stereo_starlight1": {
+    "subtitles": "sounds.callofequestria_fabricated.starlight1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_starlight1"
+    ]
+  },
+  "stereo_starlight2": {
+    "subtitles": "sounds.callofequestria_fabricated.starlight2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_starlight2"
+    ]
+  },
+  "stereo_trixie1": {
+    "subtitles": "sounds.callofequestria_fabricated.trixie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_trixie1"
+    ]
+  },
+  "stereo_trixie2": {
+    "subtitles": "sounds.callofequestria_fabricated.trixie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_trixie2"
+    ]
+  },
+  "stereo_swirl1": {
+    "subtitles": "sounds.callofequestria_fabricated.swirl1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_swirl1"
+    ]
+  },
+  "stereo_swirl2": {
+    "subtitles": "sounds.callofequestria_fabricated.swirl2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_swirl2"
+    ]
+  },
+  "stereo_minuette1": {
+    "subtitles": "sounds.callofequestria_fabricated.minuette1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_minuette1"
+    ]
+  },
+  "stereo_minuette2": {
+    "subtitles": "sounds.callofequestria_fabricated.minuette2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_minuette2"
+    ]
+  },
+  "stereo_maud_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.maud_pie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_maud_pie1"
+    ]
+  },
+  "stereo_maud_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.maud_pie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_maud_pie2"
+    ]
+  },
+  "stereo_marble_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.marble_pie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_marble_pie1"
+    ]
+  },
+  "stereo_marble_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.marble_pie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_marble_pie2"
+    ]
+  },
+  "stereo_daring_do1": {
+    "subtitles": "sounds.callofequestria_fabricated.daring_do1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_daring_do1"
+    ]
+  },
+  "stereo_daring_do2": {
+    "subtitles": "sounds.callofequestria_fabricated.daring_do2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_daring_do2"
+    ]
+  },
+  "stereo_granny_smith1": {
+    "subtitles": "sounds.callofequestria_fabricated.granny_smith1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_granny_smith1"
+    ]
+  },
+  "stereo_granny_smith2": {
+    "subtitles": "sounds.callofequestria_fabricated.granny_smith2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_granny_smith2"
+    ]
+  },
+  "stereo_limestone_pie1": {
+    "subtitles": "sounds.callofequestria_fabricated.limestone_pie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_limestone_pie1"
+    ]
+  },
+  "stereo_limestone_pie2": {
+    "subtitles": "sounds.callofequestria_fabricated.limestone_pie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_limestone_pie2"
+    ]
+  },
+  "stereo_nurse_redheart1": {
+    "subtitles": "sounds.callofequestria_fabricated.nurse_redheart1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_nurse_redheart1"
+    ]
+  },
+  "stereo_nurse_redheart2": {
+    "subtitles": "sounds.callofequestria_fabricated.nurse_redheart2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_nurse_redheart2"
+    ]
+  },
+  "stereo_lily_valley1": {
+    "subtitles": "sounds.callofequestria_fabricated.lily_valley1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lily_valley1"
+    ]
+  },
+  "stereo_lily_valley2": {
+    "subtitles": "sounds.callofequestria_fabricated.lily_valley2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lily_valley2"
+    ]
+  },
+  "stereo_daisy1": {
+    "subtitles": "sounds.callofequestria_fabricated.daisy1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_daisy1"
+    ]
+  },
+  "stereo_daisy2": {
+    "subtitles": "sounds.callofequestria_fabricated.daisy2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_daisy2"
+    ]
+  },
+  "stereo_lotus_blossom1": {
+    "subtitles": "sounds.callofequestria_fabricated.lotus_blossom1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lotus_blossom1"
+    ]
+  },
+  "stereo_lotus_blossom2": {
+    "subtitles": "sounds.callofequestria_fabricated.lotus_blossom2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lotus_blossom2"
+    ]
+  },
+  "stereo_aloe_vera1": {
+    "subtitles": "sounds.callofequestria_fabricated.aloe_vera1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_aloe_vera1"
+    ]
+  },
+  "stereo_aloe_vera2": {
+    "subtitles": "sounds.callofequestria_fabricated.aloe_vera2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_aloe_vera2"
+    ]
+  },
+  "stereo_octavia_melody1": {
+    "subtitles": "sounds.callofequestria_fabricated.octavia_melody1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_octavia_melody1"
+    ]
+  },
+  "stereo_octavia_melody2": {
+    "subtitles": "sounds.callofequestria_fabricated.octavia_melody2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_octavia_melody2"
+    ]
+  },
+  "stereo_dj_pon31": {
+    "subtitles": "sounds.callofequestria_fabricated.dj_pon31",
+    "sounds": [
+      "callofequestria_fabricated:stereo_dj_pon31"
+    ]
+  },
+  "stereo_dj_pon32": {
+    "subtitles": "sounds.callofequestria_fabricated.dj_pon32",
+    "sounds": [
+      "callofequestria_fabricated:stereo_dj_pon32"
+    ]
+  },
+  "stereo_cheerilee1": {
+    "subtitles": "sounds.callofequestria_fabricated.cheerilee1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_cheerilee1"
+    ]
+  },
+  "stereo_cheerilee2": {
+    "subtitles": "sounds.callofequestria_fabricated.cheerilee2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_cheerilee2"
+    ]
+  },
+  "stereo_spitfire1": {
+    "subtitles": "sounds.callofequestria_fabricated.spitfie1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_spitfire1"
+    ]
+  },
+  "stereo_spitfire2": {
+    "subtitles": "sounds.callofequestria_fabricated.spitfie2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_spitfire2"
+    ]
+  },
+  "stereo_cherry_berry1": {
+    "subtitles": "sounds.callofequestria_fabricated.cherry_berry1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_cherry_berry1"
+    ]
+  },
+  "stereo_cherry_berry2": {
+    "subtitles": "sounds.callofequestria_fabricated.cherry_berry2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_cherry_berry2"
+    ]
+  },
+  "stereo_sugar_belle1": {
+    "subtitles": "sounds.callofequestria_fabricated.sugar_belle1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_sugar_belle1"
+    ]
+  },
+  "stereo_sugar_belle2": {
+    "subtitles": "sounds.callofequestria_fabricated.sugar_belle2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_sugar_belle2"
+    ]
+  },
+  "stereo_twilight_velvet1": {
+    "subtitles": "sounds.callofequestria_fabricated.twilight_velvet1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_twilight_velvet1"
+    ]
+  },
+  "stereo_twilight_velvet2": {
+    "subtitles": "sounds.callofequestria_fabricated.twilight_velvet2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_twilight_velvet2"
+    ]
+  },
+  "stereo_lightning_dust1": {
+    "subtitles": "sounds.callofequestria_fabricated.lightning_dust1",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lightning_dust1"
+    ]
+  },
+  "stereo_lightning_dust2": {
+    "subtitles": "sounds.callofequestria_fabricated.lightning_dust2",
+    "sounds": [
+      "callofequestria_fabricated:stereo_lightning_dust2"
+    ]
+  }
+}

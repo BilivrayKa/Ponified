@@ -1,1 +1,0 @@
-give @s callofequestria:plush_trixie 1
